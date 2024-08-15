@@ -28,11 +28,10 @@ Vue.component("simple_hero_component_1723702133", {
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img id="hero-image" src="./images/hero.png" alt="hero image" class="rounded-lg shadow-lg">
+                    <img id="hero-image" src="https://makeinfinite-mentat-dev.azurewebsites.net/get_image/Blockchain_Information_Finder_1723702131/hero.png" alt="hero image" class="rounded-lg shadow-lg">
                 </div>
             </div>
         </section>            
-`
     `,
     data() {
         return {
