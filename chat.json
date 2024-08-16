@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add an image of the moon over here in the right",
+        "message_id": "guest16082024050844",
+        "timestamp": "16082024050845",
+        "component_file_name": "simple_header_component_1723702133",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
