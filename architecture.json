@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd an image of the moon over here in the right"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nchange the landwind logo here to the image of Ethereum"
     }
 ]

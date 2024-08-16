@@ -1,3 +1,4 @@
+
 /* Summary: This component contains the app's logo and name in a large, bold font. They're both in the same line. And then a line of text underneath it. Both of these lines are center aligned.
 */
 Vue.component("simple_footer_component_1723702133", {
@@ -8,7 +9,7 @@ Vue.component("simple_footer_component_1723702133", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-white hover:text-pink-200 transition-colors duration-300">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Information_Finder_1723702131/main/images/7559daf0cffa415a8ca4892b876001d8.jpeg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
                             BlockchainInsight Explorer
                         </a>
                     </div>
