@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the picture of the sun to be positioned within the app?\", \"option1\": \"In the app's homepage as a background image\", \"option2\": \"As an icon next to blockchain information entries\"}, {\"question 2\": \"Do you have a specific sun image in mind, or should we source a stock image?\", \"option1\": \"I will provide the image\", \"option2\": \"Please source a suitable stock image\"}], \"input_token_count\": 273, \"output_token_count\": 106, \"time_taken\": \"0:00:02.619820\"}",
+        "message_id": "guest16082024062521",
+        "timestamp": "16082024062528",
+        "component_file_name": "simple_cta_component_1723702133",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add the picture of the sun",
         "message_id": "guest16082024062521",
