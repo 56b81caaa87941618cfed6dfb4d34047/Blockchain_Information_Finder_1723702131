@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific image of the moon you'd like us to use, or should we source one that fits the aesthetic of the app?\", \"option1\": \"I will provide the image.\", \"option2\": \"Please source an image that fits the app's design.\"}, {\"question 2\": \"How large do you want the moon image to appear on the screen? Should it be a dominating element or a subtle background feature?\", \"option1\": \"It should be a large, dominating element.\", \"option2\": \"Make it a subtle background feature.\"}], \"input_token_count\": 278, \"output_token_count\": 128, \"time_taken\": \"0:00:03.516526\"}",
+        "message_id": "guest16082024050844",
+        "timestamp": "16082024050852",
+        "component_file_name": "simple_header_component_1723702133",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I will add an image of the moon on the right.",
         "message_id": "guest16082024050844",
