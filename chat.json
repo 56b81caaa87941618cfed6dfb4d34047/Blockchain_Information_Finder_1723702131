@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add the picture of the sun",
+        "message_id": "guest16082024062521",
+        "timestamp": "16082024062522",
+        "component_file_name": "simple_cta_component_1723702133",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I will add the picture of the sun for you.",
         "message_id": "guest16082024062521",
