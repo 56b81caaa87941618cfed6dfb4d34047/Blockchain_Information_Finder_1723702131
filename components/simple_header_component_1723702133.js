@@ -1,5 +1,4 @@
-/* Summary: The header component is a nav bar on top of the page -- it contains the app's logo and name in a big, bold font, to the left. In the middle there are 4 text items each hyperlinked.
-*/
+/* Summary: The header component is a nav bar on top of the page -- it contains the app's logo and name in a big, bold font, to the left. In the middle there are 4 text items each hyperlinked. */
 
 Vue.component("simple_header_component_1723702133", {
     template: `
@@ -7,7 +6,7 @@ Vue.component("simple_header_component_1723702133", {
         <nav id="nav-bar" class="bg-pink-400 bg-opacity-20 backdrop-filter backdrop-blur-lg border-purple-300 py-3 shadow-lg rounded-lg">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-6 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="./images/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
+                    <img id="logo-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Blockchain_Information_Finder_1723702131/main/images/b466a1fcd09c4b4ebd903f56ff72c986.jpeg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-2xl font-bold whitespace-nowrap text-purple-100">BlockchainInsight Explorer</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
