@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add an image of the moon on the right.",
+        "message_id": "guest16082024050844",
+        "timestamp": "16082024050845",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an image of the moon over here in the right",
         "message_id": "guest16082024050844",
