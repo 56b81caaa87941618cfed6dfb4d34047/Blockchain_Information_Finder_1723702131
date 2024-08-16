@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the Ethereum logo to replace the existing one in a specific size or should we adjust to fit the current layout optimally?\", \"option1\": \"Use a specific size for the Ethereum logo\", \"option2\": \"Adjust the Ethereum logo to fit the current layout optimally\"}, {\"question 2\": \"Should the Ethereum logo be linked to an external page or function as a purely decorative element?\", \"option1\": \"Link the Ethereum logo to an external page\", \"option2\": \"The Ethereum logo should be purely decorative\"}], \"input_token_count\": 278, \"output_token_count\": 123, \"time_taken\": \"0:00:03.363119\"}",
+        "message_id": "guest16082024051128",
+        "timestamp": "16082024051136",
+        "component_file_name": "simple_footer_component_1723702133",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add dynamic cryptocurrency price ticker for Ethereum\", \"checked\": true}, {\"feature\": \"Implement real-time blockchain news feed\", \"checked\": false}, {\"feature\": \"Enable dark/light mode for better user experience\", \"checked\": false}, {\"feature\": \"Integrate Ethereum blockchain explorer feature\", \"checked\": true}, {\"feature\": \"Add interactive charts for Ethereum price history\", \"checked\": false}, {\"feature\": \"Implement push notifications for major Ethereum updates\", \"checked\": true}], \"input_token_count\": 232, \"output_token_count\": 114, \"time_taken\": \"0:00:03.143548\"}",
         "message_id": "guest16082024051128",
