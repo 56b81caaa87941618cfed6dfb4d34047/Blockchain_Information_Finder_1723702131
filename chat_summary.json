@@ -54,5 +54,11 @@
         "content": "Alright, I will add the picture of the sun for you.",
         "timestamp": "16082024062523",
         "message_id": "guest16082024062521"
+    },
+    {
+        "role": "user",
+        "content": "add the picture of the sun",
+        "timestamp": "16082024062522",
+        "message_id": "guest16082024062521"
     }
 ]
