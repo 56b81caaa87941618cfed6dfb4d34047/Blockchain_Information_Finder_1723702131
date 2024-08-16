@@ -12,5 +12,11 @@
         "content": "add an image of the moon over here in the right",
         "timestamp": "16082024050845",
         "message_id": "guest16082024050844"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add an image of the moon on the right.",
+        "timestamp": "16082024050845",
+        "message_id": "guest16082024050844"
     }
 ]
